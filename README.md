@@ -5,8 +5,11 @@
   - 현재는 device screen 에 맞춰 ratio 가 변하다 보니, 일반적인 가로 모니터의 경우 이미지 height 가 잘림.
 - [ ] 주요 사진 선정 및 작문
   - 전체 사진 최종본으로 변경
-  - 메인 페이지 `27.jpg` 변경
   - Milestone 4 개로 줄이기
+  - 메인 27
+  - 중앙 14
+  - 엔딩 33
+  - 갤러리 (16-12-25-20-10-3-13-34-35-7-18-31)
 - [ ] Embed image 화질 낮추기
 - [ ] Tmap, Kakao navi 길 안내 invoke 기능 추가 ([참조](https://community.openapi.sk.com/t/tmap/9170/2))
 - [ ] Apple cal, Google cal 일정 추가 기능 추가
