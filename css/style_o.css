@@ -1350,6 +1350,11 @@ img.with-border{
 	text-align:center;
 }
 
+.center-topmid{
+        vertical-align: 15%;
+        text-align:center;
+}
+
 .center-top{
 	vertical-align:top;
 	text-align:center;
