@@ -2713,6 +2713,10 @@ footer .image-divider.fixed-height{
 }
 
 .intronames{
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -1px;
+    line-height: 1.6;
+    font-size: 20px;
     padding: 28px 0 38px 0;
 }
 
