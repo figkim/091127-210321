@@ -2943,11 +2943,6 @@ button.mfp-close {
     }
 }
 
-details {
-  font-family: 'Noto Sans KR';
-  width: 300px;
-}
-
-details > summary::-webkit-details-marker {
-  display: none;
+details > summary::-webkit-details-marker {    
+  display: none;    
 }
